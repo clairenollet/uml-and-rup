@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-19T13:17:09.997Z" agent="5.0 (X11)" etag="yLsRIpWEm7mWz841J0G1" version="15.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-19T13:18:21.202Z" agent="5.0 (X11)" etag="GWN1H9YcpRl2aCLSsoa_" version="15.5.5" type="github">
   <diagram id="yNoFTsAn39vmrBhyO2Z6" name="Page-1">
     <mxGraphModel dx="1235" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -59,7 +59,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JfY9R7hhSeFoNyV27G2a-18" value="s&#39;identifier avec un mot de passe" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="266" width="120" height="80" as="geometry" />
+          <mxGeometry x="400" y="250" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JfY9R7hhSeFoNyV27G2a-20" value="mettre à jour un produit" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="285" y="377" width="120" height="80" as="geometry" />
