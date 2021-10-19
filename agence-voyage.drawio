@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-19T10:26:03.073Z" agent="5.0 (X11)" etag="SWxcEexFdutT4dSbTXoi" version="15.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-19T11:46:55.509Z" agent="5.0 (X11)" etag="F8KxI0FWcFohx-4qxZ1B" version="15.5.5" type="github">
   <diagram id="cRu32RqCK4BLnh1sHEem" name="Page-1">
     <mxGraphModel dx="977" dy="499" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -77,7 +77,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="47qLA5IY4Jjz_HCi7pHy-29" value="Agence de voyage" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="449" y="49" width="60" height="30" as="geometry" />
+          <mxGeometry x="414" y="49" width="131" height="30" as="geometry" />
         </mxCell>
         <mxCell id="47qLA5IY4Jjz_HCi7pHy-30" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=0;rounded=0;strokeWidth=1;entryX=0.975;entryY=0.338;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.065;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="47qLA5IY4Jjz_HCi7pHy-16" target="47qLA5IY4Jjz_HCi7pHy-5">
           <mxGeometry width="160" relative="1" as="geometry">
