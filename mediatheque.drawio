@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-19T14:54:43.088Z" agent="5.0 (X11)" etag="zsG52_wFQwaoLFvMsXMh" version="15.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-19T14:56:04.091Z" agent="5.0 (X11)" etag="Vy41m-CGT00G8Czn6JTJ" version="15.5.5" type="github">
   <diagram id="afnWRwcvHSymUkZ44OzH" name="Page-1">
     <mxGraphModel dx="2048" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,12 +14,12 @@
           <mxGeometry x="-100" y="260" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JUnkOE2_TBgbnRqX_qNR-4" value="Gérer les oeuvres" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="430" width="120" height="60" as="geometry" />
+          <mxGeometry x="30" y="430" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JUnkOE2_TBgbnRqX_qNR-5" value="Gérer les abonnés" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="220" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JUnkOE2_TBgbnRqX_qNR-9" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.218;entryY=0.089;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JUnkOE2_TBgbnRqX_qNR-3" target="JUnkOE2_TBgbnRqX_qNR-4">
+        <mxCell id="JUnkOE2_TBgbnRqX_qNR-9" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.017;entryY=0.312;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JUnkOE2_TBgbnRqX_qNR-3" target="JUnkOE2_TBgbnRqX_qNR-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-70" y="320" as="sourcePoint" />
             <mxPoint x="3.119999999999891" y="229.5999999999999" as="targetPoint" />
@@ -29,7 +29,7 @@
           <mxGeometry x="270" y="220" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JUnkOE2_TBgbnRqX_qNR-14" value="S&#39;identifier au système informatique via un mot de passe" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="340" width="160" height="80" as="geometry" />
+          <mxGeometry x="210" y="340" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JUnkOE2_TBgbnRqX_qNR-16" value="Générer un contentieux" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="190" width="120" height="80" as="geometry" />
@@ -49,7 +49,7 @@
             <mxPoint x="237" y="281" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JUnkOE2_TBgbnRqX_qNR-32" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="JUnkOE2_TBgbnRqX_qNR-4" target="JUnkOE2_TBgbnRqX_qNR-14">
+        <mxCell id="JUnkOE2_TBgbnRqX_qNR-32" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.968;exitY=0.345;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="JUnkOE2_TBgbnRqX_qNR-4" target="JUnkOE2_TBgbnRqX_qNR-14">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="100" y="340" as="sourcePoint" />
             <mxPoint x="480.75999999999976" y="392.39999999999986" as="targetPoint" />
