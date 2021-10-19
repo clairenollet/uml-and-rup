@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-19T14:25:16.885Z" agent="5.0 (X11)" etag="6M8nLSR0vAOr4H-B_gEr" version="15.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-19T14:27:17.020Z" agent="5.0 (X11)" etag="9VKA3YE6573k3Z-l_Kt4" version="15.5.5" type="github">
   <diagram id="afnWRwcvHSymUkZ44OzH" name="Page-1">
-    <mxGraphModel dx="1568" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1851" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,7 +26,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JUnkOE2_TBgbnRqX_qNR-10" value="Vérifier que les abonnés sont en règle" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="380" width="120" height="80" as="geometry" />
+          <mxGeometry x="370" y="370" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JUnkOE2_TBgbnRqX_qNR-14" value="S&#39;identifier au système informatique via un mot de passe" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="400" width="160" height="80" as="geometry" />
@@ -40,14 +40,8 @@
             <mxPoint x="117" y="447" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JUnkOE2_TBgbnRqX_qNR-25" value="&amp;lt;&amp;lt;secondary&amp;gt;&amp;gt;" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;exitX=0.987;exitY=0.405;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JUnkOE2_TBgbnRqX_qNR-16" target="JUnkOE2_TBgbnRqX_qNR-27">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="580.4197524023448" y="372.1898667079761" as="sourcePoint" />
-            <mxPoint x="680" y="222" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="JUnkOE2_TBgbnRqX_qNR-27" value="Tribunal" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="200" width="30" height="60" as="geometry" />
+          <mxGeometry x="690" y="210" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JUnkOE2_TBgbnRqX_qNR-29" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JUnkOE2_TBgbnRqX_qNR-3" target="JUnkOE2_TBgbnRqX_qNR-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -73,10 +67,16 @@
             <mxPoint x="128.48000000000002" y="412.39999999999986" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JUnkOE2_TBgbnRqX_qNR-34" value="" style="endArrow=block;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.658;entryY=0.993;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" edge="1" parent="1">
+        <mxCell id="JUnkOE2_TBgbnRqX_qNR-34" value="" style="endArrow=block;html=1;rounded=0;exitX=0.276;exitY=0.023;exitDx=0;exitDy=0;entryX=0.658;entryY=0.993;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;exitPerimeter=0;" edge="1" parent="1" source="JUnkOE2_TBgbnRqX_qNR-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="407.57359312880135" y="390.7157287525341" as="sourcePoint" />
             <mxPoint x="348.96000000000004" y="268.43999999999994" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JUnkOE2_TBgbnRqX_qNR-36" value="secondary" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JUnkOE2_TBgbnRqX_qNR-16" target="JUnkOE2_TBgbnRqX_qNR-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-60" y="289.9999999999999" as="sourcePoint" />
+            <mxPoint x="50" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
