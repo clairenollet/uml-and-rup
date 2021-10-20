@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-20T14:53:05.412Z" agent="5.0 (X11)" etag="M-2PAWpVTp2sKQrYo-RT" version="15.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-20T14:53:26.628Z" agent="5.0 (X11)" etag="w5nOKBtQ2sGeloeDdzTO" version="15.5.6" type="github">
   <diagram id="G17Qcf3dSnOgZR3vg_Ft" name="Page-1">
     <mxGraphModel dx="690" dy="465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -182,7 +182,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dhpliQUnUtE1ZKGSkYKM-93" value="Responsable de département" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="500" y="410" width="190" height="52" as="geometry" />
+          <mxGeometry x="480" y="410" width="190" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="dhpliQUnUtE1ZKGSkYKM-99" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;entryX=0.41;entryY=1.077;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.421;exitY=-0.038;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="dhpliQUnUtE1ZKGSkYKM-93" target="dhpliQUnUtE1ZKGSkYKM-54">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="482.9000000000001" y="337.00800000000004" as="sourcePoint" />
+            <mxPoint x="403.9200000000001" y="354.75199999999995" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
