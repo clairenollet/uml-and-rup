@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-20T14:41:40.874Z" agent="5.0 (X11)" etag="cZJNeAET89etaCwRBUcF" version="15.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-20T14:43:48.243Z" agent="5.0 (X11)" etag="g8RZY3OlfWFiNNvqALke" version="15.5.6" type="github">
   <diagram id="G17Qcf3dSnOgZR3vg_Ft" name="Page-1">
     <mxGraphModel dx="812" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -90,9 +90,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dhpliQUnUtE1ZKGSkYKM-47" value="Académie" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="404" width="140" height="52" as="geometry" />
+          <mxGeometry x="20" y="400" width="140" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="dhpliQUnUtE1ZKGSkYKM-51" value="" style="endArrow=diamondThin;html=1;endSize=12;startArrow=none;startSize=14;startFill=0;rounded=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;endFill=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dhpliQUnUtE1ZKGSkYKM-1" target="dhpliQUnUtE1ZKGSkYKM-47">
+        <mxCell id="dhpliQUnUtE1ZKGSkYKM-51" value="" style="endArrow=diamondThin;html=1;endSize=12;startArrow=none;startSize=14;startFill=0;rounded=0;entryX=0.418;entryY=-0.041;entryDx=0;entryDy=0;endFill=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="dhpliQUnUtE1ZKGSkYKM-1" target="dhpliQUnUtE1ZKGSkYKM-47">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="200" y="310" as="sourcePoint" />
             <mxPoint x="360" y="310" as="targetPoint" />
@@ -100,12 +100,12 @@
         </mxCell>
         <mxCell id="dhpliQUnUtE1ZKGSkYKM-52" value="1..*" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;" connectable="0" vertex="1" parent="dhpliQUnUtE1ZKGSkYKM-51">
           <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="-12" y="3" as="offset" />
+            <mxPoint x="-25" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dhpliQUnUtE1ZKGSkYKM-53" value="1" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=top;" connectable="0" vertex="1" parent="dhpliQUnUtE1ZKGSkYKM-51">
           <mxGeometry x="1" relative="1" as="geometry">
-            <mxPoint x="-14" y="-22" as="offset" />
+            <mxPoint x="-12" y="-22" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dhpliQUnUtE1ZKGSkYKM-55" value="" style="endArrow=none;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;endFill=0;" edge="1" parent="1" source="dhpliQUnUtE1ZKGSkYKM-5" target="dhpliQUnUtE1ZKGSkYKM-9">
