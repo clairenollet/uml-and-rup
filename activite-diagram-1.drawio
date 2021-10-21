@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-21T13:45:14.374Z" agent="5.0 (X11)" etag="92RECYakSESjUn8yaPvv" version="15.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-21T13:45:29.690Z" agent="5.0 (X11)" etag="kg-KDJzSGp00UFFJps8Y" version="15.5.7" type="github">
   <diagram id="lDoR8Uwk0FF2YKrWrz3P" name="Page-1">
     <mxGraphModel dx="630" dy="465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,7 +22,7 @@
         <mxCell id="x6pJYcGrNQkofZ2agiK2-20" value="Mettre le &lt;br&gt;véhicule dans le &lt;br&gt;parc clientèle" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" vertex="1" parent="x6pJYcGrNQkofZ2agiK2-5">
           <mxGeometry x="6" y="280" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="x6pJYcGrNQkofZ2agiK2-23" value="Boucle la fiche&lt;br&gt;de réparation" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" vertex="1" parent="x6pJYcGrNQkofZ2agiK2-5">
+        <mxCell id="x6pJYcGrNQkofZ2agiK2-23" value="Boucler la fiche&lt;br&gt;de réparation" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" vertex="1" parent="x6pJYcGrNQkofZ2agiK2-5">
           <mxGeometry x="106" y="300" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="x6pJYcGrNQkofZ2agiK2-6" value="Magasinier" style="swimlane;" vertex="1" parent="1">
