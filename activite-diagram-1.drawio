@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2021-10-21T12:55:18.365Z" agent="5.0 (X11)" version="15.5.7" etag="G8ULkgtlICDfb3pJgm3Y" type="github"><diagram id="lDoR8Uwk0FF2YKrWrz3P">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-21T13:37:13.397Z" agent="5.0 (X11)" etag="hN1waMyre7bPWjuSDYM7" version="15.5.7" type="github">
+  <diagram id="lDoR8Uwk0FF2YKrWrz3P" name="Page-1">
+    <mxGraphModel dx="870" dy="465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="x6pJYcGrNQkofZ2agiK2-5" value="Chef d&#39;atelier" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="14" y="40" width="200" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="x6pJYcGrNQkofZ2agiK2-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="x6pJYcGrNQkofZ2agiK2-5" source="x6pJYcGrNQkofZ2agiK2-9" target="x6pJYcGrNQkofZ2agiK2-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x6pJYcGrNQkofZ2agiK2-9" value="" style="ellipse;fillColor=#000000;strokeColor=none;" vertex="1" parent="x6pJYcGrNQkofZ2agiK2-5">
+          <mxGeometry x="85" y="40" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x6pJYcGrNQkofZ2agiK2-10" value="Saisir la fiche &lt;br&gt;de réparation" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" vertex="1" parent="x6pJYcGrNQkofZ2agiK2-5">
+          <mxGeometry x="30" y="100" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="x6pJYcGrNQkofZ2agiK2-6" value="Magasinier" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="214" y="40" width="206" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="x6pJYcGrNQkofZ2agiK2-11" value="Fournir les&lt;br&gt;pièces" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" vertex="1" parent="x6pJYcGrNQkofZ2agiK2-6">
+          <mxGeometry x="6" y="160" width="84" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="x6pJYcGrNQkofZ2agiK2-12" value="Saisir&lt;br&gt;les pièces&lt;br&gt;fournies&lt;br&gt;depuis&lt;br&gt;le terminal" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" vertex="1" parent="x6pJYcGrNQkofZ2agiK2-6">
+          <mxGeometry x="106" y="160" width="74" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="x6pJYcGrNQkofZ2agiK2-7" value="Mécanicien" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="420" y="40" width="194" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="x6pJYcGrNQkofZ2agiK2-8" value="Comptable" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="614" y="40" width="200" height="360" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
