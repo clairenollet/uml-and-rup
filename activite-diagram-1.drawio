@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-21T13:55:08.235Z" agent="5.0 (X11)" etag="ejdc5nkKIgKKF79ux2R7" version="15.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-21T14:02:33.126Z" agent="5.0 (X11)" etag="ROwmMQo_RsrS6WTihjXE" version="15.5.7" type="github">
   <diagram id="lDoR8Uwk0FF2YKrWrz3P" name="Page-1">
     <mxGraphModel dx="870" dy="465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -29,7 +29,7 @@
           <mxGeometry x="6" y="430" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x6pJYcGrNQkofZ2agiK2-23" value="Boucler la fiche&lt;br&gt;de réparation" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" parent="x6pJYcGrNQkofZ2agiK2-5" vertex="1">
-          <mxGeometry x="106" y="480" width="90" height="40" as="geometry" />
+          <mxGeometry x="101" y="480" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cijkb6Wk9oCFtrYYesEv-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="x6pJYcGrNQkofZ2agiK2-5" source="cijkb6Wk9oCFtrYYesEv-2" target="x6pJYcGrNQkofZ2agiK2-20">
           <mxGeometry relative="1" as="geometry" />
@@ -85,14 +85,16 @@
         <mxCell id="x6pJYcGrNQkofZ2agiK2-8" value="Comptable" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="614" y="40" width="200" height="530" as="geometry" />
         </mxCell>
-        <mxCell id="x6pJYcGrNQkofZ2agiK2-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="x6pJYcGrNQkofZ2agiK2-8" source="x6pJYcGrNQkofZ2agiK2-24" target="x6pJYcGrNQkofZ2agiK2-31" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="x6pJYcGrNQkofZ2agiK2-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="x6pJYcGrNQkofZ2agiK2-8" source="x6pJYcGrNQkofZ2agiK2-24" target="x6pJYcGrNQkofZ2agiK2-31" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="x6pJYcGrNQkofZ2agiK2-24" value="Importer la fiche&lt;br&gt;bouclée dans&lt;br&gt;le logiciel&lt;br&gt;comptable" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" parent="x6pJYcGrNQkofZ2agiK2-8" vertex="1">
-          <mxGeometry x="55" y="275" width="90" height="70" as="geometry" />
+          <mxGeometry x="46" y="450" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="x6pJYcGrNQkofZ2agiK2-31" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;rounded=0;" parent="x6pJYcGrNQkofZ2agiK2-8" vertex="1">
-          <mxGeometry x="85" y="400" width="30" height="30" as="geometry" />
+          <mxGeometry x="96" y="360" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="x6pJYcGrNQkofZ2agiK2-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="x6pJYcGrNQkofZ2agiK2-10" target="x6pJYcGrNQkofZ2agiK2-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -110,8 +112,16 @@
         <mxCell id="cijkb6Wk9oCFtrYYesEv-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cijkb6Wk9oCFtrYYesEv-2" target="x6pJYcGrNQkofZ2agiK2-31">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="330" y="415" />
-              <mxPoint x="330" y="455" />
+              <mxPoint x="640" y="415" />
+              <mxPoint x="640" y="415" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cijkb6Wk9oCFtrYYesEv-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x6pJYcGrNQkofZ2agiK2-23" target="x6pJYcGrNQkofZ2agiK2-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="525" />
+              <mxPoint x="430" y="525" />
             </Array>
           </mxGeometry>
         </mxCell>
