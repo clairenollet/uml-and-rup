@@ -1,29 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2021-10-21T12:22:06.092Z" agent="5.0 (X11)" etag="2kDNx4efMpu666W36iEv" version="15.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-21T12:26:51.891Z" agent="5.0 (X11)" etag="9KnrjSCk1bSpnNVZCsrX" version="15.5.7" type="github">
   <diagram id="rAxA4YuYQ1c7C4B2KDvb" name="Page-1">
-    <mxGraphModel dx="735" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="893" dy="664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="BWwOdKCGmXxD-8EXiOwv-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="40" width="680" height="720" as="geometry" />
+          <mxGeometry x="90" y="170" width="610" height="610" as="geometry" />
         </mxCell>
-        <mxCell id="BWwOdKCGmXxD-8EXiOwv-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BWwOdKCGmXxD-8EXiOwv-3" target="BWwOdKCGmXxD-8EXiOwv-5">
+        <mxCell id="BWwOdKCGmXxD-8EXiOwv-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BWwOdKCGmXxD-8EXiOwv-3" target="BWwOdKCGmXxD-8EXiOwv-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BWwOdKCGmXxD-8EXiOwv-3" value="" style="ellipse;fillColor=#000000;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="395" y="89" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BWwOdKCGmXxD-8EXiOwv-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BWwOdKCGmXxD-8EXiOwv-5" target="BWwOdKCGmXxD-8EXiOwv-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="BWwOdKCGmXxD-8EXiOwv-5" value="S&#39;authentifier au système&lt;br&gt;informatique" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="160" width="140" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="BWwOdKCGmXxD-8EXiOwv-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BWwOdKCGmXxD-8EXiOwv-7" target="BWwOdKCGmXxD-8EXiOwv-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="BWwOdKCGmXxD-8EXiOwv-7" value="Prêt d&#39;un ouvrage" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="240" width="140" height="40" as="geometry" />
+          <mxGeometry x="395" y="190" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BWwOdKCGmXxD-8EXiOwv-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BWwOdKCGmXxD-8EXiOwv-9" target="BWwOdKCGmXxD-8EXiOwv-11">
           <mxGeometry relative="1" as="geometry" />
@@ -99,6 +87,14 @@
         </mxCell>
         <mxCell id="BWwOdKCGmXxD-8EXiOwv-38" value="[else]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="655" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BWwOdKCGmXxD-8EXiOwv-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BWwOdKCGmXxD-8EXiOwv-41" target="BWwOdKCGmXxD-8EXiOwv-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410.0000000000002" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BWwOdKCGmXxD-8EXiOwv-41" value="Prêter un ouvrage" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="260" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
